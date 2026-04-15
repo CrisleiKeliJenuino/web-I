@@ -24,7 +24,6 @@ Repositório com aulas, exemplos e exercícios da disciplina **Web I** (HTML/CSS
 Este repositório é o conteúdo de **Web I**. Para acompanhar a sequência em **Web II**, acesse:
 
 - [![GitHub Web II](https://img.shields.io/badge/GitHub-web--II-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrisleiKeliJenuino/web-II)
-- https://github.com/CrisleiKeliJenuino/web-II
 
 ---
 
