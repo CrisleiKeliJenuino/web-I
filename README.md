@@ -7,7 +7,8 @@
 ![Status](https://img.shields.io/badge/Status-M%C3%B3dulo%20Conclu%C3%ADdo-2ea44f?style=for-the-badge)
 
 <!-- Badges (GitHub) - ajuste o usuário/repo se necessário -->
-![Linguagem principal: HTML](https://img.shields.io/badge/Linguagem%20principal-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linguagem principal: HTML 96.1%](https://img.shields.io/badge/Linguagem%20principal-HTML%2096.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS 3.9%](https://img.shields.io/badge/CSS-3.9%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- Atalho para Web II -->
 [![➡️ Ir para Web II](https://img.shields.io/badge/Continuar%20em%20Web%20II-%E2%86%92-0ea5e9?style=for-the-badge)](https://github.com/CrisleiKeliJenuino/web-II)
@@ -22,6 +23,7 @@ Repositório com aulas, exemplos e exercícios da disciplina **Web I** (HTML/CSS
 
 Este repositório é o conteúdo de **Web I**. Para acompanhar a sequência em **Web II**, acesse:
 
+- [![GitHub Web II](https://img.shields.io/badge/GitHub-web--II-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrisleiKeliJenuino/web-II)
 - https://github.com/CrisleiKeliJenuino/web-II
 
 ---
@@ -57,6 +59,9 @@ Este repositório é o conteúdo de **Web I**. Para acompanhar a sequência em *
 
 ## 📚 Conteúdo das aulas (HTML/CSS)
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 - Conceitos de desenvolvimento para Web
 - Iniciando o HTML e trabalhando com fontes
 - HTML e CSS — trabalhando com imagens
@@ -69,6 +74,8 @@ Este repositório é o conteúdo de **Web I**. Para acompanhar a sequência em *
 ---
 
 ## 📘 Conteúdo das aulas (JavaScript)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 
 - JavaScript — introdução
 - JavaScript — estruturas de repetição (`for`, `while`, `do...while`)
