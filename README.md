@@ -52,7 +52,7 @@ Este repositório é o conteúdo de **Web I**. Para acompanhar a sequência em *
 	- [`JAVASCRIPT/aula3/`](JAVASCRIPT/aula3/)
 	- [`JAVASCRIPT/aula4/`](JAVASCRIPT/aula4/)
 	- [`JAVASCRIPT/Desafio/`](JAVASCRIPT/Desafio/)
-- [`projeto fórmula 1/`](projeto%20f%C3%B3rmula%201/) — páginas do projeto
+- [`projeto fórmula 1/`](projeto%20f%C3%B3rmula%201/) — páginas do projeto *(em andamento / não finalizado)*
 
 ---
 
