@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-M%C3%B3dulo%20Conclu%C3%ADdo-2ea44f?style=for-the-badge)
 
 <!-- Badges (GitHub) - ajuste o usuário/repo se necessário -->
-![Linguagem](https://img.shields.io/github/languages/top/CrisleiKeliJenuino/web-I?style=for-the-badge&label=Linguagem)
+![Linguagem principal](https://img.shields.io/github/languages/top/CrisleiKeliJenuino/web-I?style=for-the-badge&label=Linguagem%20principal)
 
 <!-- Atalho para Web II -->
 [![➡️ Ir para Web II](https://img.shields.io/badge/Continuar%20em%20Web%20II-%E2%86%92-0ea5e9?style=for-the-badge)](https://github.com/CrisleiKeliJenuino/web-II)
