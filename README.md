@@ -7,10 +7,12 @@
 ![Status](https://img.shields.io/badge/Status-M%C3%B3dulo%20Conclu%C3%ADdo-2ea44f?style=for-the-badge)
 
 <!-- Badges (GitHub) - ajuste o usuário/repo se necessário -->
-![Linguagem principal](https://img.shields.io/github/languages/top/CrisleiKeliJenuino/web-I?style=for-the-badge&label=Linguagem%20principal)
+![Linguagem principal: HTML](https://img.shields.io/badge/Linguagem%20principal-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- Atalho para Web II -->
 [![➡️ Ir para Web II](https://img.shields.io/badge/Continuar%20em%20Web%20II-%E2%86%92-0ea5e9?style=for-the-badge)](https://github.com/CrisleiKeliJenuino/web-II)
+
+📌 **Linguagem principal:** HTML (com CSS e JavaScript nos exercícios)
 
 Repositório com aulas, exemplos e exercícios da disciplina **Web I** (HTML/CSS e introdução ao JavaScript), desenvolvidos durante o curso na [ETEC Prof. Massuyuki Kawano - Tupã/SP](https://www.linkedin.com/company/etec-professor-massuyuki-kawano/posts/?feedView=all), sob orientação da professora [Eveline Rodrigues](https://www.linkedin.com/in/evelinerodrigues/overlay/about-this-profile/).
 
