@@ -7,10 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-M%C3%B3dulo%20Conclu%C3%ADdo-2ea44f?style=for-the-badge)
 
 <!-- Badges (GitHub) - ajuste o usuário/repo se necessário -->
-![Último commit](https://img.shields.io/github/last-commit/CrisleiKeliJenuino/web-I?style=for-the-badge)
-![Tamanho do repo](https://img.shields.io/github/repo-size/CrisleiKeliJenuino/web-I?style=for-the-badge)
 ![Linguagem principal](https://img.shields.io/github/languages/top/CrisleiKeliJenuino/web-I?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/CrisleiKeliJenuino/web-I?style=for-the-badge)
 
 <!-- Atalho para Web II -->
 [![➡️ Ir para Web II](https://img.shields.io/badge/Continuar%20em%20Web%20II-%E2%86%92-0ea5e9?style=for-the-badge)](https://github.com/CrisleiKeliJenuino/web-II)
@@ -87,7 +84,5 @@ Este repositório é o conteúdo de **Web I**. Para acompanhar a sequência em *
 ---
 
 ## ✨ Objetivo
-
-📌 Registrar a evolução e praticar os conceitos vistos em **Web I**.
 
 ✍️ Repositório criado para registrar minha evolução no aprendizado de **Desenvolvimento Web**.
